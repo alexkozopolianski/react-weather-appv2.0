@@ -1,2 +1,2 @@
-# react-weather-appv2.0
+# react-weather-app
 Weather app on React.JS
